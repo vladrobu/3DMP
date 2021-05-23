@@ -1,3 +1,1 @@
-Vorpal The Hexapod (Walking And Dancing Robot) \\
-So far, legs and hinges done \\
-Finished main body
+print("Vorpal The Hexapod (Walking And Dancing Robot)")
